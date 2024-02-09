@@ -1,0 +1,1 @@
+select idviolazione, count(*) as 'Raggruppa per violazione' from Verbale group by idviolazione

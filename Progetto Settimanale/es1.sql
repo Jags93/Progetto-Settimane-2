@@ -1,0 +1,1 @@
+select count(*) as 'Totale Verbali' from Verbale;

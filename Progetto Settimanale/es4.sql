@@ -1,0 +1,1 @@
+select idanagrafica, sum([Decurtamento Punti])as 'Tot Punti Decurtati' from Verbale GROUP BY idanagrafica

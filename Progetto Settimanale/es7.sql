@@ -1,0 +1,1 @@
+select idanagrafica, sum(Importo)as 'Tot Importo per Persona' from Verbale group by idanagrafica

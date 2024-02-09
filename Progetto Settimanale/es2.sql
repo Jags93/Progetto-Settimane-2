@@ -1,0 +1,1 @@
+select idanagrafica, count(*) as 'Tot Verbali per Anagrafe' from Verbale group by idanagrafica

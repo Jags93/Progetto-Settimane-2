@@ -1,0 +1,1 @@
+select [Data Violazione], Importo, [Decurtamento Punti] from Verbale where [Data Violazione] = '2016-02-13'

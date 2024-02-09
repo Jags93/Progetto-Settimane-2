@@ -1,0 +1,1 @@
+select* from Anagrafica where Città = 'Palermo'
